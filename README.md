@@ -3,7 +3,6 @@
   <a href="https://github.com/yeshenzhy"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://github.com/yeshenzhy"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/weixin_37680520?spm=1001.2100.3001.5343"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
-  <a href="https://wakatime.com/@Tian"><img src="https://wakatime.com/badge/user/938325ad-aa1b-4e8a-8efd-04fff7660bd5.svg" alt="Total time coded since Dec 13 2019" /></a>
 </p>
 
 <img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
