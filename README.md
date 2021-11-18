@@ -1,5 +1,5 @@
 ### 欢迎来到我的github主页! 👋 Welcome to my github's homepage!
-
+![code](https://gitee.com/techpang/img_emoji_libs/raw/master/img_bed/markdown_images/code.gif '富婆加我吧不想努力了')
 ![QQ Badge](https://img.shields.io/badge/-QQ:273332683-darkred?style=plastic&logo=QQ&logoColor=white)
 ![Wechat Badge](https://img.shields.io/badge/-q273332683-white?style=plastic&logo=wechat)
 <br />
