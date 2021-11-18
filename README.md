@@ -8,11 +8,6 @@
 
 <img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
-- 📚**考研**：数一，英一，408
-- 💻**后端**：Java，Python，C++
-- 📝**前端**：HTML，CSS，JS
-- 💼**数据库**：MySQL，Redis
-
 **上周编码时长**  
 
 <!--START_SECTION:waka-->
@@ -40,9 +35,9 @@ No Activity tracked this Week
 
 > 动态太少，不好意思展示
 > 
-> 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
+> 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/yeshenzhy)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
 
-<a href="https://github.com/eternidad33/eternidad33">
+<a href="https://github.com/yeshenzhy">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true" />
 </a>
 </details>
